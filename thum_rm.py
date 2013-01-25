@@ -4,7 +4,7 @@
 # enjoy it, ;)
 #
 import subprocess,sys
-Path_rm=subprocess.Popen("rm -r /home/revolt/.cache/thumbnails/",shell=True)
+Path_rm=subprocess.Popen("rm -r /home/revolt313/.cache/thumbnails/",shell=True)
 Path_rm.wait()
 print "ok,"
 sys.exit()
