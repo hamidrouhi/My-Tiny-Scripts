@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # timer up counter
-#author revolt313(Hamid Rouhi)
+# author revolt313(Hamid Rouhi)
+# hrouhi[dOt]kh[aT]gmail[doT]com
 # -*- coding: UTF-8 -*-
 
 import os
