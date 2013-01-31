@@ -3,7 +3,7 @@
 # author revolt313(Hamid Rouhi)
 # hrouhi[dOt]kh[aT]gmail[doT]com
 # -*- coding: UTF-8 -*-
-
+################################
 import os
 import time
 s=00;d=00;h=00
@@ -24,6 +24,7 @@ def timer()
 					break
 				
 		time.sleep(1)
+timer()
 
 	
 	
